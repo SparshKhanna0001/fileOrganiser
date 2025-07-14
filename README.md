@@ -43,5 +43,10 @@ with the files moved into their respective folders.
 - Files with unrecognised extensions are moved to the `other` folder.
 - The script will not move itself or Python-related files by default.
 
+## future scope: 
+- Ability to customise the folders for customised sorting, json based settings control
+- Using argparse for fast interface
+
+
 ## License
 MIT 
